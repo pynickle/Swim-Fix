@@ -29,7 +29,10 @@
       }
     ],
     [
-      "@semantic-release/exec"
+      "@semantic-release/exec",
+      {
+        "prepareCmd": "./gradlew :fabric:build -Pmod_version=${nextRelease.version} && ./gradlew :neoforge:build -Pmod_version=${nextRelease.version}"
+      }
     ],
     "@semantic-release/changelog",
     [
