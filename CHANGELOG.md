@@ -8,6 +8,22 @@
 
 * add gradle wrapper ([587dc2c](https://github.com/pynickle/Swim-Fix/commit/587dc2c58112d40ea3272f3b3fec6e5cfd29090f))
 * add gradlew ([ad2b254](https://github.com/pynickle/Swim-Fix/commit/ad2b2543646166d72713cd42fcdb59d643f8c57d))
+* fix ([78340aa](https://github.com/pynickle/Swim-Fix/commit/78340aa65a10c00ffc7514648aa90dcb633e3444))
+* **release:** 1.0.0 [skip ci] ([266b95d](https://github.com/pynickle/Swim-Fix/commit/266b95de91717bd32145fb886e11cdb586a59a13))
+* **release:** 1.0.0 [skip ci] ([f0d7a07](https://github.com/pynickle/Swim-Fix/commit/f0d7a075157667136e1558e90d256d329a70f935))
+* try fix gradlew error ([154e704](https://github.com/pynickle/Swim-Fix/commit/154e704470a94332777e9c32b9d3e0c8da5264d0))
+* update to fix release ([8988c67](https://github.com/pynickle/Swim-Fix/commit/8988c6784284a7a2861366d26db95fa6c9205fa3))
+
+## 1.0.0 (2025-11-20)
+
+### ✨ Features
+
+* initial commit ([61307bf](https://github.com/pynickle/Swim-Fix/commit/61307bf4d8e1f947606a3994cf27b14c527f9d82))
+
+### 🔧 Miscellaneous Changes
+
+* add gradle wrapper ([587dc2c](https://github.com/pynickle/Swim-Fix/commit/587dc2c58112d40ea3272f3b3fec6e5cfd29090f))
+* add gradlew ([ad2b254](https://github.com/pynickle/Swim-Fix/commit/ad2b2543646166d72713cd42fcdb59d643f8c57d))
 * **release:** 1.0.0 [skip ci] ([f0d7a07](https://github.com/pynickle/Swim-Fix/commit/f0d7a075157667136e1558e90d256d329a70f935))
 * try fix gradlew error ([154e704](https://github.com/pynickle/Swim-Fix/commit/154e704470a94332777e9c32b9d3e0c8da5264d0))
 * update to fix release ([8988c67](https://github.com/pynickle/Swim-Fix/commit/8988c6784284a7a2861366d26db95fa6c9205fa3))
