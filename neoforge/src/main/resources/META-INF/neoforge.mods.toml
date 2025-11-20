@@ -1,0 +1,32 @@
+modLoader = "javafml"
+loaderVersion = "[2,)"
+#issueTrackerURL = ""
+license = "GNU LGPL 3.0"
+
+[[mods]]
+modId = "swim_fix"
+version = "${version}"
+displayName = "Swim Fix"
+authors = "ENC_Euphony"
+description = '''
+MC-220390 Fix
+'''
+#logoFile = ""
+
+[[dependencies.swim_fix]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.swim_fix]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21,)"
+ordering = "NONE"
+side = "BOTH"
+
+
+[[mixins]]
+config = "swim_fix.mixins.json"
