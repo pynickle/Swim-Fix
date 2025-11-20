@@ -30,8 +30,8 @@ importers:
         specifier: ^25.0.2
         version: 25.0.2
       semantic-release-minecraft:
-        specifier: ^2.3.5
-        version: 2.3.5(semantic-release@25.0.2)
+        specifier: ^2.3.6
+        version: 2.3.6(semantic-release@25.0.2)
 
 packages:
 
@@ -1156,8 +1156,8 @@ packages:
   safe-buffer@5.1.2:
     resolution: {integrity: sha512-Gd2UZBJDkXlY7GbJxfsE8/nvKkUEU1G38c1siN6QP6a9PT9MmHB8GnpscSmMJSoF8LOIrt8ud/wPtojys4G6+g==}
 
-  semantic-release-minecraft@2.3.5:
-    resolution: {integrity: sha512-WI3KSj8JOgY8K5iiHizLJZs//jQgWLlXO2NHhy1UNxaHu30NJjIzg3yxwvsXsI3KJAGIMObadg+Bdg4qMnUehA==}
+  semantic-release-minecraft@2.3.6:
+    resolution: {integrity: sha512-YD1UmQkP0TVOjcVCkeP9zZRMi4WClWGUOf8aIeOR1r/ge+Ckow8YmY2HAIHGE6zKHu+EXAZQqFJA0TM9UdFCsg==}
     peerDependencies:
       semantic-release: '>=18.0.0'
 
@@ -2514,7 +2514,7 @@ snapshots:
 
   safe-buffer@5.1.2: {}
 
-  semantic-release-minecraft@2.3.5(semantic-release@25.0.2):
+  semantic-release-minecraft@2.3.6(semantic-release@25.0.2):
     dependencies:
       axios: 1.13.2
       form-data: 4.0.5
