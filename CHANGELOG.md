@@ -1,3 +1,9 @@
+## [1.1.0](https://github.com/pynickle/Swim-Fix/compare/v1.0.0...v1.1.0) (2025-11-20)
+
+### ✨ Features
+
+* initial release ([786ae23](https://github.com/pynickle/Swim-Fix/commit/786ae23001326690857ce74cba2f4f57be35e38f))
+
 ## [0.0.3](https://github.com/pynickle/Swim-Fix/compare/v0.0.2...v0.0.3) (2025-11-20)
 
 ### 🐛 Bug Fixes
