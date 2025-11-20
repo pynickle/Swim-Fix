@@ -50,7 +50,7 @@
         "game_versions": ["1.21", "1.21.1", "1.21.2", "1.21.3", "1.21.4", "1.21.5", "1.21.6", "1.21.7", "1.21.8", "1.21.9", "1.21.10"],
         "mod_loaders": "${ loader }",
         "display_name": "[${ name } 1.21.1+] ${ nextRelease.version }",
-        "glob": "${ loader }/build/libs/better_client-${ loader }-${ nextRelease.version }.jar",
+        "glob": "${ loader }/build/libs/SwimFix -${ loader }-${ nextRelease.version }.jar",
         "strategies": [
           {
             "loader": "fabric",
